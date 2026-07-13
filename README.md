@@ -24,6 +24,3 @@ src/
   App.tsx       Composition root
   App.css       Responsive styling
 ```
-
-See the accompanying architecture PDF for component and data-flow diagrams,
-state management rationale, and a mapping to the evaluation criteria.
